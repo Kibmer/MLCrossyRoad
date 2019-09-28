@@ -27,6 +27,7 @@ TagManager:
   - pit
   - DEAD_ZONE
   - CHICK
+  - CAR
   layers:
   - Default
   - TransparentFX

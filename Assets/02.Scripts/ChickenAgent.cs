@@ -9,27 +9,34 @@ public class ChickenAgent : Agent
     private int directionZ = 0;
 
     private SkinnedMeshRenderer chickenSkin;
+
     private Transform chickenTr;
-    public Transform[] roadTrGroup;
+    public List<Transform> roadTrGroup;
 
     private Vector3 chickenFirstPos;
-    private Vector3[] roadFirstPosGroup;
+    private List<Vector3> roadFirstPosGroup;
 
-    private void Start()
+    public override void InitializeAgent()
     {
         chickenSkin = GetComponentInChildren<SkinnedMeshRenderer>();
         chickenTr = GetComponent<Transform>();
 
+        roadTrGroup = new List<Transform>();
+        roadFirstPosGroup = new List<Vector3>();
+
         chickenFirstPos = chickenTr.position;
-        for(int i = 0; i<roadTrGroup.Length; i++){
+        for(int i = 0; i<roadTrGroup.Count; i++){
             roadFirstPosGroup[i] = roadTrGroup[i].position;
         }
+    }
+
+    public override void CollectObservations(){
+        
     }
 
     public override void AgentAction(float[] vectorAction, string textAction)
     {
         int movement = Mathf.FloorToInt(vectorAction[0]);
-        Debug.Log(movement);
         directionX = 0;
         directionZ = 0;
         if (movement == 1) { directionX = -1; }
@@ -38,6 +45,7 @@ public class ChickenAgent : Agent
         if (movement == 4) { directionZ = 1; }
 
         transform.Translate(directionX, 0, directionZ);
+        AddReward(-0.001f);
     }
 
     private void OnTriggerStay(Collider other)
@@ -49,25 +57,36 @@ public class ChickenAgent : Agent
         if (other.CompareTag("DEAD_ZONE"))
         {
             chickenSkin.material.color = Color.red;
-
             AddReward(-1.0f);
             Done();
         }
+        if(other.CompareTag("CAR"))
+        {
+            chickenSkin.material.color = Color.red;
+            AddReward(-1.0f);
+            Done();
+        }
+    }
+
+    public override void AgentReset(){
+        ResetStage();
     }
 
     void ResetStage()
     {
         //치킨의 위치를 초기화
         chickenTr.position = chickenFirstPos;
-        chickenSkin.material.color = Color.white;
+        Invoke("SkinReset", 0.3f);
 
         //길을 초기화
-        for(int i = 0; i<roadTrGroup.Length; i++){
+        for (int i = 0; i < roadTrGroup.Count; i++)
+        {
             roadTrGroup[i].position = roadFirstPosGroup[i];
         }
     }
 
-    public override void AgentReset(){
-        ResetStage();
+    private void SkinReset()
+    {
+        chickenSkin.material.color = Color.white;
     }
 }

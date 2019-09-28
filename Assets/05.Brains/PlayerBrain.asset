@@ -15,9 +15,10 @@ MonoBehaviour:
   brainParameters:
     vectorObservationSize: 1
     numStackedVectorObservations: 1
-    vectorActionSize: 01000000
+    vectorActionSize: 04000000
     cameraResolutions: []
-    vectorActionDescriptions: []
+    vectorActionDescriptions:
+    - Direction
     vectorActionSpaceType: 0
   keyContinuousPlayerActions: []
   axisContinuousPlayerActions: []
