@@ -11,11 +11,13 @@ public class ChickenAgent : Agent
         public Transform roadTr;
         public Vector3 roadFirstPos;
         private List<GameObject> chickList;
+        private List<GameObject> carList;
 
         public RoadBlock(Transform roadTr){
             this.roadTr = roadTr;
             roadFirstPos = roadTr.position;
             chickList = new List<GameObject>();
+            carList = new List<GameObject>();
         }
 
         public void CreateChick(GameObject chick){
@@ -29,6 +31,11 @@ public class ChickenAgent : Agent
                 Vector3 chickPosition = new Vector3(xPos + roadTr.position.x, 0, zPos + roadTr.position.z);
                 chickList.Add(Instantiate(chick, chickPosition, rotation, roadTr));
             }
+        }
+
+        public void CreateCar(GameObject car)
+        {
+
         }
 
         public void ShuffleChick()
@@ -58,13 +65,14 @@ public class ChickenAgent : Agent
 
     public ArrayList roadSwipArrayList;
     
-    private GameObject chickObject;
+    private GameObject chickPrefab;
+    private GameObject carPrefab;
+
     private Vector3 chickenFirstPos;
     private Transform chickenTr;
-
     private GameObject camera;
 
-    public static int chickPerBlock = 15;
+    public static int chickPerBlock = 10;
 
     public override void InitializeAgent()
     {
@@ -75,7 +83,7 @@ public class ChickenAgent : Agent
         roadSwipArrayList.Add(1);
         roadSwipArrayList.Add(2);
 
-        chickObject = Resources.Load("Chick") as GameObject;
+        chickPrefab = Resources.Load("Chick") as GameObject;
         camera = transform.Find("Camera").gameObject;
 
         roadBlocks = new RoadBlock[]{
@@ -89,7 +97,7 @@ public class ChickenAgent : Agent
         chickenFirstPos = chickenTr.position;
         foreach(RoadBlock roadBlock in roadBlocks)
         {
-            roadBlock.CreateChick(chickObject);
+            roadBlock.CreateChick(chickPrefab);
         }
     }
 
@@ -109,10 +117,11 @@ public class ChickenAgent : Agent
         {
             roadBlocks[(int)roadSwipArrayList[0]].roadTr.Translate(0, 0, 96);
             roadBlocks[(int)roadSwipArrayList[0]].ShuffleChick();
+
+            int firstObjIndex = (int)roadSwipArrayList[0];
+            roadSwipArrayList.RemoveAt(0);
+            roadSwipArrayList.Add(firstObjIndex);
         }
-        int temp = (int)roadSwipArrayList[0];
-        roadSwipArrayList.RemoveAt(0);
-        roadSwipArrayList.Add(temp);
 
         camera.transform.position = new Vector3(camera.transform.parent.parent.position.x, 2, camera.transform.position.z);
         transform.Translate(directionX, 0, directionZ);
@@ -158,6 +167,11 @@ public class ChickenAgent : Agent
         //에이전트의 위치를 초기화
         chickenTr.position = chickenFirstPos;
         Invoke("SkinReset", 0.3f);
+
+        roadSwipArrayList.Clear();
+        roadSwipArrayList.Add(0);
+        roadSwipArrayList.Add(1);
+        roadSwipArrayList.Add(2);
 
         //길을 초기화
         foreach (RoadBlock roadBlock in roadBlocks)
