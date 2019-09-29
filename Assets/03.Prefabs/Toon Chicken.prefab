@@ -602,6 +602,7 @@ GameObject:
   m_Component:
   - component: {fileID: 375228399323568408}
   - component: {fileID: 319339440223741738}
+  - component: {fileID: 1427429832}
   - component: {fileID: 166004258}
   - component: {fileID: 166004257}
   m_Layer: 0
@@ -639,7 +640,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 378010946568559638}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 9000000, guid: d623cd35a78380d4eb0457c4e483abed, type: 3}
   m_Controller: {fileID: 9100000, guid: 023bb6bfb37b5334f82b6b3ac607c538, type: 2}
   m_CullingMode: 1
@@ -650,6 +651,22 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!54 &1427429832
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378010946568559638}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!65 &166004258
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -684,7 +701,7 @@ MonoBehaviour:
     resetOnDone: 1
     onDemandDecision: 0
     numberOfActionsBetweenDecisions: 1
-  roadBlockObjects:
+  roadBlockTransforms:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -884,7 +901,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8553235445878496311}
   - component: {fileID: 5274905971832884022}
-  - component: {fileID: 5611798028668214972}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -933,7 +949,7 @@ Camera:
   far clip plane: 1000
   field of view: 35
   orthographic: 1
-  orthographic size: 10.94
+  orthographic size: 11
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -949,11 +965,3 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!81 &5611798028668214972
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1837466904638144977}
-  m_Enabled: 1

@@ -10,12 +10,40 @@ public class ChickenAgent : Agent
     {
         public Transform roadTr;
         public Vector3 roadFirstPos;
-        private List<GameObject> ChickList;
+        private List<GameObject> chickList;
 
         public RoadBlock(Transform roadTr){
             this.roadTr = roadTr;
             roadFirstPos = roadTr.position;
-            ChickList = new List<GameObject>();
+            chickList = new List<GameObject>();
+        }
+
+        public void CreateChick(GameObject chick){
+            for (int i = 0; i < ChickenAgent.chickPerBlock; i++)
+            {
+                int xPos = Random.Range(-8, 8);
+                int zPos = Random.Range(1, 31);
+                Quaternion rotation = Quaternion.identity;
+                rotation.eulerAngles = new Vector3(0, 180, 0);
+                
+                Vector3 chickPosition = new Vector3(xPos + roadTr.position.x, 0, zPos + roadTr.position.z);
+                chickList.Add(Instantiate(chick, chickPosition, rotation, roadTr));
+            }
+        }
+
+        public void ShuffleChick()
+        {
+            foreach(GameObject chick in chickList)
+            {
+                chick.SetActive(true);
+                int xPos = Random.Range(-8, 8);
+                int zPos = Random.Range(1, 31);
+                Quaternion rotation = Quaternion.identity;
+                rotation.eulerAngles = new Vector3(0, 180, 0);
+
+                Vector3 chickPosition = new Vector3(xPos + roadTr.position.x, 0, zPos + roadTr.position.z);
+                chick.transform.position = chickPosition;
+            }
         }
     }
 
@@ -23,20 +51,32 @@ public class ChickenAgent : Agent
     private int directionX = 0; 
     private int directionZ = 0;
     
-    
     private SkinnedMeshRenderer chickenSkin; //에이전트가 죽었을 때 색을 바꿔주기 위한 스킨 렌더러
 
     private RoadBlock[] roadBlocks;          //로드 블럭 하나의 정보를 모아놓은 스트럭쳐의 리스트
-    public Transform[] roadBlockTransforms;     //유니티 에디터에서 실제 로드 블럭의 위치들을 가지고 오기 위한 public 변수
+    public Transform[] roadBlockTransforms;  //유니티 에디터에서 실제 로드 블럭의 위치들을 가지고 오기 위한 public 변수
 
+    public ArrayList roadSwipArrayList;
+    
+    private GameObject chickObject;
     private Vector3 chickenFirstPos;
     private Transform chickenTr;
 
+    private GameObject camera;
+
+    public static int chickPerBlock = 15;
 
     public override void InitializeAgent()
     {
         chickenSkin = GetComponentInChildren<SkinnedMeshRenderer>();
         chickenTr = GetComponent<Transform>();
+        roadSwipArrayList = new ArrayList();
+        roadSwipArrayList.Add(0);
+        roadSwipArrayList.Add(1);
+        roadSwipArrayList.Add(2);
+
+        chickObject = Resources.Load("Chick") as GameObject;
+        camera = transform.Find("Camera").gameObject;
 
         roadBlocks = new RoadBlock[]{
             new RoadBlock(roadBlockTransforms[0]),
@@ -44,12 +84,13 @@ public class ChickenAgent : Agent
             new RoadBlock(roadBlockTransforms[2])
         };
 
+        Debug.Log(roadBlocks);
+
         chickenFirstPos = chickenTr.position;
-    }
-
-    public override void CollectObservations()
-    {
-
+        foreach(RoadBlock roadBlock in roadBlocks)
+        {
+            roadBlock.CreateChick(chickObject);
+        }
     }
 
     public override void AgentAction(float[] vectorAction, string textAction)
@@ -62,25 +103,46 @@ public class ChickenAgent : Agent
         if (movement == 3) { directionZ = -1; }
         if (movement == 4) { directionZ = 1; }
 
+        
+        float z = roadBlocks[(int)roadSwipArrayList[2]].roadTr.position.z;
+        if (chickenTr.position.z > z)
+        {
+            roadBlocks[(int)roadSwipArrayList[0]].roadTr.Translate(0, 0, 96);
+            roadBlocks[(int)roadSwipArrayList[0]].ShuffleChick();
+        }
+        int temp = (int)roadSwipArrayList[0];
+        roadSwipArrayList.RemoveAt(0);
+        roadSwipArrayList.Add(temp);
+
+        camera.transform.position = new Vector3(camera.transform.parent.parent.position.x, 2, camera.transform.position.z);
         transform.Translate(directionX, 0, directionZ);
         AddReward(-0.001f);
     }
 
-    private void OnTriggerStay(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("CHICK"))
         {
             AddReward(+1.0f);
+            other.gameObject.SetActive(false);
         }
         if (other.CompareTag("DEAD_ZONE"))
         {
             chickenSkin.material.color = Color.red;
+            foreach (RoadBlock roadBlock in roadBlocks)
+            {
+                roadBlock.ShuffleChick();
+            }
             AddReward(-1.0f);
             Done();
         }
         if (other.CompareTag("CAR"))
         {
             chickenSkin.material.color = Color.red;
+            foreach (RoadBlock roadBlock in roadBlocks)
+            {
+                roadBlock.ShuffleChick();
+            }
             AddReward(-1.0f);
             Done();
         }
@@ -108,5 +170,4 @@ public class ChickenAgent : Agent
     {
         chickenSkin.material.color = Color.white;
     }
-
 }
