@@ -5,33 +5,51 @@ using MLAgents;
 
 public class ChickenAgent : Agent
 {
-    private int directionX = 0;
+    //로드 블럭 하나의 정보를 모아놓은 스트럭쳐
+    public struct RoadBlock
+    {
+        public Transform roadTr;
+        public Vector3 roadFirstPos;
+        private List<GameObject> ChickList;
+
+        public RoadBlock(Transform roadTr){
+            this.roadTr = roadTr;
+            roadFirstPos = roadTr.position;
+            ChickList = new List<GameObject>();
+        }
+    }
+
+    //에이전트가 움직이는 방향  X, Z
+    private int directionX = 0; 
     private int directionZ = 0;
+    
+    
+    private SkinnedMeshRenderer chickenSkin; //에이전트가 죽었을 때 색을 바꿔주기 위한 스킨 렌더러
 
-    private SkinnedMeshRenderer chickenSkin;
-
-    private Transform chickenTr;
-    public List<Transform> roadTrGroup;
+    private RoadBlock[] roadBlocks;          //로드 블럭 하나의 정보를 모아놓은 스트럭쳐의 리스트
+    public Transform[] roadBlockTransforms;     //유니티 에디터에서 실제 로드 블럭의 위치들을 가지고 오기 위한 public 변수
 
     private Vector3 chickenFirstPos;
-    private List<Vector3> roadFirstPosGroup;
+    private Transform chickenTr;
+
 
     public override void InitializeAgent()
     {
         chickenSkin = GetComponentInChildren<SkinnedMeshRenderer>();
         chickenTr = GetComponent<Transform>();
 
-        roadTrGroup = new List<Transform>();
-        roadFirstPosGroup = new List<Vector3>();
+        roadBlocks = new RoadBlock[]{
+            new RoadBlock(roadBlockTransforms[0]),
+            new RoadBlock(roadBlockTransforms[1]),
+            new RoadBlock(roadBlockTransforms[2])
+        };
 
         chickenFirstPos = chickenTr.position;
-        for(int i = 0; i<roadTrGroup.Count; i++){
-            roadFirstPosGroup[i] = roadTrGroup[i].position;
-        }
     }
 
-    public override void CollectObservations(){
-        
+    public override void CollectObservations()
+    {
+
     }
 
     public override void AgentAction(float[] vectorAction, string textAction)
@@ -50,7 +68,7 @@ public class ChickenAgent : Agent
 
     private void OnTriggerStay(Collider other)
     {
-        if(other.CompareTag("CHICK"))
+        if (other.CompareTag("CHICK"))
         {
             AddReward(+1.0f);
         }
@@ -60,7 +78,7 @@ public class ChickenAgent : Agent
             AddReward(-1.0f);
             Done();
         }
-        if(other.CompareTag("CAR"))
+        if (other.CompareTag("CAR"))
         {
             chickenSkin.material.color = Color.red;
             AddReward(-1.0f);
@@ -68,20 +86,21 @@ public class ChickenAgent : Agent
         }
     }
 
-    public override void AgentReset(){
+    public override void AgentReset()
+    {
         ResetStage();
     }
 
     void ResetStage()
     {
-        //치킨의 위치를 초기화
+        //에이전트의 위치를 초기화
         chickenTr.position = chickenFirstPos;
         Invoke("SkinReset", 0.3f);
 
         //길을 초기화
-        for (int i = 0; i < roadTrGroup.Count; i++)
+        foreach (RoadBlock roadBlock in roadBlocks)
         {
-            roadTrGroup[i].position = roadFirstPosGroup[i];
+            roadBlock.roadTr.position = roadBlock.roadFirstPos;
         }
     }
 
@@ -89,4 +108,5 @@ public class ChickenAgent : Agent
     {
         chickenSkin.material.color = Color.white;
     }
+
 }
