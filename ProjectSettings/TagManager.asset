@@ -28,6 +28,7 @@ TagManager:
   - DEAD_ZONE
   - CHICK
   - CAR
+  - CARRESET
   layers:
   - Default
   - TransparentFX

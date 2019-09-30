@@ -42,7 +42,7 @@ public class ChickenAgent : Agent
                 int zPos = Random.Range(1, 31);
                 for(int j = 0; j < carPerLineMax; j++)
                 {
-                    int xPos = Random.Range(-8, 8);
+                    int xPos = Random.Range(-10, 10);
                     Quaternion rotation = Quaternion.identity;
                     bool rotationChange = 1 == Random.Range(0, 1) ? true : false;
                     if (rotationChange)
@@ -83,7 +83,7 @@ public class ChickenAgent : Agent
                 int zPos = Random.Range(1, 31);
                 for (int j = 0; j < carPerLineMax; j++)
                 {
-                    int xPos = Random.Range(-8, 8);
+                    int xPos = Random.Range(-10, 10);
                     Quaternion rotation = Quaternion.identity;
                     bool rotationChange = 1 == Random.Range(0, 1) ? true : false;
                     if (rotationChange)
