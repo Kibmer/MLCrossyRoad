@@ -13,21 +13,23 @@ public class ChickenAgent : Agent
         private List<GameObject> chickList;
         private List<GameObject> carList;
 
-        public RoadBlock(Transform roadTr){
+        public RoadBlock(Transform roadTr)
+        {
             this.roadTr = roadTr;
             roadFirstPos = roadTr.position;
             chickList = new List<GameObject>();
             carList = new List<GameObject>();
         }
 
-        public void CreateChick(GameObject chick){
+        public void CreateChick(GameObject chick)
+        {
             for (int i = 0; i < ChickenAgent.chickPerBlock; i++)
             {
                 int xPos = Random.Range(-8, 8);
                 int zPos = Random.Range(1, 31);
                 Quaternion rotation = Quaternion.identity;
                 rotation.eulerAngles = new Vector3(0, 180, 0);
-                
+
                 Vector3 chickPosition = new Vector3(xPos + roadTr.position.x, 0, zPos + roadTr.position.z);
                 chickList.Add(Instantiate(chick, chickPosition, rotation, roadTr));
             }
@@ -35,12 +37,32 @@ public class ChickenAgent : Agent
 
         public void CreateCar(GameObject car)
         {
+            for (int i = 0; i < carLinePerBlock; i++)
+            {
+                int zPos = Random.Range(1, 31);
+                for(int j = 0; j < carPerLineMax; j++)
+                {
+                    int xPos = Random.Range(-8, 8);
+                    Quaternion rotation = Quaternion.identity;
+                    bool rotationChange = 1 == Random.Range(0, 1) ? true : false;
+                    if (rotationChange)
+                    {
+                        rotation.eulerAngles = new Vector3(0, 90, 0);
+                    }
+                    else
+                    {
+                        rotation.eulerAngles = new Vector3(0, -90, 0);
+                    }
 
+                    Vector3 carPosition = new Vector3(xPos + roadTr.position.x, 0, zPos + roadTr.position.z);
+                    carList.Add(Instantiate(car, carPosition, rotation, roadTr));
+                }
+            }
         }
 
         public void ShuffleChick()
         {
-            foreach(GameObject chick in chickList)
+            foreach (GameObject chick in chickList)
             {
                 chick.SetActive(true);
                 int xPos = Random.Range(-8, 8);
@@ -52,19 +74,48 @@ public class ChickenAgent : Agent
                 chick.transform.position = chickPosition;
             }
         }
+
+        public void ShuffleCar()
+        {
+            int carShuffleProgress = 0;
+            for (int i = 0; i < carLinePerBlock; i++)
+            {
+                int zPos = Random.Range(1, 31);
+                for (int j = 0; j < carPerLineMax; j++)
+                {
+                    int xPos = Random.Range(-8, 8);
+                    Quaternion rotation = Quaternion.identity;
+                    bool rotationChange = 1 == Random.Range(0, 1) ? true : false;
+                    if (rotationChange)
+                    {
+                        rotation.eulerAngles = new Vector3(0, 90, 0);
+                    }
+                    else
+                    {
+                        rotation.eulerAngles = new Vector3(0, -90, 0);
+                    }
+
+                    Vector3 carPosition = new Vector3(xPos + roadTr.position.x, 0, zPos + roadTr.position.z);
+
+                    carList[carShuffleProgress].transform.position = carPosition;
+                    carList[carShuffleProgress].transform.rotation = rotation;
+                    carShuffleProgress++;
+                }
+            }
+        }
     }
 
     //에이전트가 움직이는 방향  X, Z
-    private int directionX = 0; 
+    private int directionX = 0;
     private int directionZ = 0;
-    
+
     private SkinnedMeshRenderer chickenSkin; //에이전트가 죽었을 때 색을 바꿔주기 위한 스킨 렌더러
 
     private RoadBlock[] roadBlocks;          //로드 블럭 하나의 정보를 모아놓은 스트럭쳐의 리스트
     public Transform[] roadBlockTransforms;  //유니티 에디터에서 실제 로드 블럭의 위치들을 가지고 오기 위한 public 변수
 
     public ArrayList roadSwipArrayList;
-    
+
     private GameObject chickPrefab;
     private GameObject carPrefab;
 
@@ -72,7 +123,9 @@ public class ChickenAgent : Agent
     private Transform chickenTr;
     private GameObject camera;
 
-    public static int chickPerBlock = 10;
+    public static int chickPerBlock = 13;
+    public static int carPerLineMax = 1;
+    public static int carLinePerBlock = 4;
 
     public override void InitializeAgent()
     {
@@ -84,7 +137,8 @@ public class ChickenAgent : Agent
         roadSwipArrayList.Add(2);
 
         chickPrefab = Resources.Load("Chick") as GameObject;
-        camera = transform.Find("Camera").gameObject;
+        carPrefab = Resources.Load("Car") as GameObject;
+        camera = transform.parent.Find("Camera").gameObject;
 
         roadBlocks = new RoadBlock[]{
             new RoadBlock(roadBlockTransforms[0]),
@@ -95,9 +149,10 @@ public class ChickenAgent : Agent
         Debug.Log(roadBlocks);
 
         chickenFirstPos = chickenTr.position;
-        foreach(RoadBlock roadBlock in roadBlocks)
+        foreach (RoadBlock roadBlock in roadBlocks)
         {
             roadBlock.CreateChick(chickPrefab);
+            roadBlock.CreateCar(carPrefab);
         }
     }
 
@@ -111,19 +166,20 @@ public class ChickenAgent : Agent
         if (movement == 3) { directionZ = -1; }
         if (movement == 4) { directionZ = 1; }
 
-        
+
         float z = roadBlocks[(int)roadSwipArrayList[2]].roadTr.position.z;
         if (chickenTr.position.z > z)
         {
             roadBlocks[(int)roadSwipArrayList[0]].roadTr.Translate(0, 0, 96);
             roadBlocks[(int)roadSwipArrayList[0]].ShuffleChick();
+            roadBlocks[(int)roadSwipArrayList[0]].ShuffleCar();
 
             int firstObjIndex = (int)roadSwipArrayList[0];
             roadSwipArrayList.RemoveAt(0);
             roadSwipArrayList.Add(firstObjIndex);
         }
 
-        camera.transform.position = new Vector3(camera.transform.parent.parent.position.x, 2, camera.transform.position.z);
+        camera.transform.position = new Vector3(camera.transform.parent.position.x, 2, chickenTr.position.z + 3);
         transform.Translate(directionX, 0, directionZ);
         AddReward(-0.001f);
     }
@@ -141,6 +197,7 @@ public class ChickenAgent : Agent
             foreach (RoadBlock roadBlock in roadBlocks)
             {
                 roadBlock.ShuffleChick();
+                roadBlock.ShuffleCar();
             }
             AddReward(-1.0f);
             Done();
@@ -151,6 +208,7 @@ public class ChickenAgent : Agent
             foreach (RoadBlock roadBlock in roadBlocks)
             {
                 roadBlock.ShuffleChick();
+                roadBlock.ShuffleCar();
             }
             AddReward(-1.0f);
             Done();

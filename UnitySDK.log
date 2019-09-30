@@ -22893,3 +22893,15 @@ MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
  
 2019-09-30 AM 1:53:38
  
+2019-09-30 AM 2:33:44
+ 
+Warning
+Assets\02.Scripts\ChickenAgent.cs(124,24): warning CS0108: 'ChickenAgent.camera' hides inherited member 'Component.camera'. Use the new keyword if hiding was intended.
+
+Warning
+Assets\ML-Agents\Scripts\Academy.cs(119,13): warning CS0649: Field 'Academy.maxSteps' is never assigned to, and will always have its default value 0
+
+2019-09-30 AM 2:37:51
+ 
+2019-09-30 AM 2:45:02
+ 
