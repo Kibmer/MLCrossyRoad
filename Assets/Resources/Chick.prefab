@@ -196,7 +196,7 @@ GameObject:
   - component: {fileID: 1918562412878051358}
   - component: {fileID: 2016454876887065256}
   - component: {fileID: 1922938530782388313}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Chick
   m_TagString: CHICK
   m_Icon: {fileID: 0}

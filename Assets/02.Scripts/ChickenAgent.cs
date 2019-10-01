@@ -40,7 +40,7 @@ public class ChickenAgent : Agent
             for (int i = 0; i < carLinePerBlock; i++)
             {
                 int zPos = Random.Range(1, 31);
-                for(int j = 0; j < carPerLineMax; j++)
+                for (int j = 0; j < carPerLineMax; j++)
                 {
                     int xPos = Random.Range(-10, 10);
                     Quaternion rotation = Quaternion.identity;
@@ -114,7 +114,7 @@ public class ChickenAgent : Agent
     private RoadBlock[] roadBlocks;          //로드 블럭 하나의 정보를 모아놓은 스트럭쳐의 리스트
     public Transform[] roadBlockTransforms;  //유니티 에디터에서 실제 로드 블럭의 위치들을 가지고 오기 위한 public 변수
 
-    public ArrayList roadSwipArrayList;
+    public ArrayList roadShuffArrayList;
 
     private GameObject chickPrefab;
     private GameObject carPrefab;
@@ -122,6 +122,9 @@ public class ChickenAgent : Agent
     private Vector3 chickenFirstPos;
     private Transform chickenTr;
     private GameObject camera;
+
+    private Collider[] carCollBuffer;
+    private Collider[] chickCollBuffer;
 
     public static int chickPerBlock = 13;
     public static int carPerLineMax = 1;
@@ -131,10 +134,13 @@ public class ChickenAgent : Agent
     {
         chickenSkin = GetComponentInChildren<SkinnedMeshRenderer>();
         chickenTr = GetComponent<Transform>();
-        roadSwipArrayList = new ArrayList();
-        roadSwipArrayList.Add(0);
-        roadSwipArrayList.Add(1);
-        roadSwipArrayList.Add(2);
+        carCollBuffer = new Collider[16];
+        chickCollBuffer = new Collider[16];
+
+        roadShuffArrayList = new ArrayList();
+        roadShuffArrayList.Add(0);
+        roadShuffArrayList.Add(1);
+        roadShuffArrayList.Add(2);
 
         chickPrefab = Resources.Load("Chick") as GameObject;
         carPrefab = Resources.Load("Car") as GameObject;
@@ -167,16 +173,16 @@ public class ChickenAgent : Agent
         if (movement == 4) { directionZ = 1; }
 
 
-        float z = roadBlocks[(int)roadSwipArrayList[2]].roadTr.position.z;
+        float z = roadBlocks[(int)roadShuffArrayList[2]].roadTr.position.z;
         if (chickenTr.position.z > z)
         {
-            roadBlocks[(int)roadSwipArrayList[0]].roadTr.Translate(0, 0, 96);
-            roadBlocks[(int)roadSwipArrayList[0]].ShuffleChick();
-            roadBlocks[(int)roadSwipArrayList[0]].ShuffleCar();
+            roadBlocks[(int)roadShuffArrayList[0]].roadTr.Translate(0, 0, 96);
+            roadBlocks[(int)roadShuffArrayList[0]].ShuffleChick();
+            roadBlocks[(int)roadShuffArrayList[0]].ShuffleCar();
 
-            int firstObjIndex = (int)roadSwipArrayList[0];
-            roadSwipArrayList.RemoveAt(0);
-            roadSwipArrayList.Add(firstObjIndex);
+            int firstObjIndex = (int)roadShuffArrayList[0];
+            roadShuffArrayList.RemoveAt(0);
+            roadShuffArrayList.Add(firstObjIndex);
         }
 
         camera.transform.position = new Vector3(camera.transform.parent.position.x, 2, chickenTr.position.z + 3);
@@ -184,11 +190,46 @@ public class ChickenAgent : Agent
         AddReward(-0.001f);
     }
 
+    public override void CollectObservations()
+    {
+        int bufferCount = Physics.OverlapBoxNonAlloc(transform.position + new Vector3(0, 0, 6)
+                                                    , new Vector3(16, 3, 16)
+                                                    , carCollBuffer
+                                                    , Quaternion.identity
+                                                    , LayerMask.GetMask("CAR"));
+        float carLength = 20;
+        for (int i = 0; i < bufferCount; i++)
+        {
+            float dist = Vector3.Distance(carCollBuffer[i].transform.position, transform.position);
+            if (dist < carLength)
+            {
+                carLength = dist;
+            }
+        }
+
+        int chickBufferCount = Physics.OverlapBoxNonAlloc(transform.position + new Vector3(0, 0, 6)
+                                                    , new Vector3(16, 3, 16)
+                                                    , chickCollBuffer
+                                                    , Quaternion.identity
+                                                    , LayerMask.GetMask("CHICK"));
+        float chickLength = 20;
+        for (int i = 0; i < bufferCount; i++)
+        {
+            float dist = Vector3.Distance(chickCollBuffer[i].transform.position, transform.position);
+            if (dist < chickLength)
+            {
+                chickLength = dist;
+            }
+        }
+        AddVectorObs(carLength);
+        AddVectorObs(chickLength);
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("CHICK"))
         {
-            AddReward(+1.0f);
+            AddReward(+2.0f);
             other.gameObject.SetActive(false);
         }
         if (other.CompareTag("DEAD_ZONE"))
@@ -226,10 +267,10 @@ public class ChickenAgent : Agent
         chickenTr.position = chickenFirstPos;
         Invoke("SkinReset", 0.3f);
 
-        roadSwipArrayList.Clear();
-        roadSwipArrayList.Add(0);
-        roadSwipArrayList.Add(1);
-        roadSwipArrayList.Add(2);
+        roadShuffArrayList.Clear();
+        roadShuffArrayList.Add(0);
+        roadShuffArrayList.Add(1);
+        roadShuffArrayList.Add(2);
 
         //길을 초기화
         foreach (RoadBlock roadBlock in roadBlocks)

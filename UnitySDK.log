@@ -22905,3 +22905,2361 @@ Assets\ML-Agents\Scripts\Academy.cs(119,13): warning CS0649: Field 'Academy.maxS
  
 2019-09-30 AM 2:45:02
  
+2019-10-01 PM 1:14:15
+ 
+2019-10-01 PM 1:16:44
+ 
+2019-10-01 PM 1:46:45
+ 
+2019-10-01 PM 6:31:47
+ 
+2019-10-01 PM 7:30:21
+ 
+2019-10-01 PM 7:59:45
+ 
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+UnityAgentsException: Vector Observation size mismatch between continuous agent Chicken and brain LearningBrain. Was Expecting 1 but received 2. 
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:604)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+2019-10-01 PM 8:02:40
+ 
+Warning
+Assets\02.Scripts\ChickenAgent.cs(124,24): warning CS0108: 'ChickenAgent.camera' hides inherited member 'Component.camera'. Use the new keyword if hiding was intended.
+
+Warning
+Assets\ML-Agents\Scripts\Academy.cs(119,13): warning CS0649: Field 'Academy.maxSteps' is never assigned to, and will always have its default value 0
+
