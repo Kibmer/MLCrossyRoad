@@ -136,12 +136,12 @@ PrefabInstance:
     - target: {fileID: 5373369778786606300, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5373369778786606301, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 35
+      value: 65
       objectReference: {fileID: 0}
     - target: {fileID: 5373369778786606301, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}
@@ -401,8 +401,7 @@ MonoBehaviour:
   broadcastHub:
     broadcastingBrains:
     - {fileID: 11400000, guid: 7955863c67000ba43bfd88faa10bba4c, type: 2}
-    _brainsToControl:
-    - {fileID: 11400000, guid: 7955863c67000ba43bfd88faa10bba4c, type: 2}
+    _brainsToControl: []
   maxSteps: 0
   trainingConfiguration:
     width: 80
@@ -447,12 +446,12 @@ PrefabInstance:
     - target: {fileID: 5373369778786606300, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5373369778786606301, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 70
+      value: 136
       objectReference: {fileID: 0}
     - target: {fileID: 5373369778786606301, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}
@@ -521,12 +520,12 @@ PrefabInstance:
     - target: {fileID: 5373369778786606300, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5373369778786606301, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 105
+      value: 208
       objectReference: {fileID: 0}
     - target: {fileID: 5373369778786606301, guid: e863c1b380b04f7459008396fac3cc44,
         type: 3}

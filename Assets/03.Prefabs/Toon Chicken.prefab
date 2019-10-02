@@ -605,6 +605,7 @@ GameObject:
   - component: {fileID: 1427429832}
   - component: {fileID: 166004258}
   - component: {fileID: 166004257}
+  - component: {fileID: 5753864645440778523}
   m_Layer: 0
   m_Name: Toon Chicken
   m_TagString: Untagged
@@ -704,6 +705,31 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  rayDistance: 20
+  rayAngles:
+  - 20
+  - 45
+  - 70
+  - 90
+  - 110
+  - 135
+  - 160
+  detectObjects:
+  - CAR
+  - CHICK
+  - DEAD_ZONE
+--- !u!114 &5753864645440778523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378010946568559638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb172294dbbcc408286b156a2c4b553c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &378051428134485950
 GameObject:
   m_ObjectHideFlags: 0

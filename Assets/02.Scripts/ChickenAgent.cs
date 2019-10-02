@@ -126,6 +126,14 @@ public class ChickenAgent : Agent
     private Collider[] carCollBuffer;
     private Collider[] chickCollBuffer;
 
+    private RayPerception3D ray;
+    //광선의 거리
+    public float rayDistance = 20.0f;
+    //광선의 발사 각도 {7개의 광선}
+    public float[] rayAngles = { 20.0f, 45.0f, 70.0f, 90.0f, 110.0f, 135.0f, 160.0f };
+    //광선의 검출 대상 (4개의 검출 대상}
+    public string[] detectObjects = { "CAR", "CHICK", "DEAD_ZONE" };
+
     public static int chickPerBlock = 13;
     public static int carPerLineMax = 1;
     public static int carLinePerBlock = 4;
@@ -136,6 +144,8 @@ public class ChickenAgent : Agent
         chickenTr = GetComponent<Transform>();
         carCollBuffer = new Collider[16];
         chickCollBuffer = new Collider[16];
+
+        ray = GetComponent<RayPerception3D>();
 
         roadShuffArrayList = new ArrayList();
         roadShuffArrayList.Add(0);
@@ -187,49 +197,54 @@ public class ChickenAgent : Agent
 
         camera.transform.position = new Vector3(camera.transform.parent.position.x, 2, chickenTr.position.z + 3);
         transform.Translate(directionX, 0, directionZ);
-        AddReward(-0.001f);
+        AddReward(-0.002f);
     }
 
     public override void CollectObservations()
     {
-        int bufferCount = Physics.OverlapBoxNonAlloc(transform.position + new Vector3(0, 0, 6)
-                                                    , new Vector3(16, 3, 16)
-                                                    , carCollBuffer
-                                                    , Quaternion.identity
-                                                    , LayerMask.GetMask("CAR"));
-        float carLength = 20;
-        for (int i = 0; i < bufferCount; i++)
-        {
-            float dist = Vector3.Distance(carCollBuffer[i].transform.position, transform.position);
-            if (dist < carLength)
-            {
-                carLength = dist;
-            }
-        }
+        //int bufferCount = Physics.OverlapBoxNonAlloc(transform.position + new Vector3(0, 0, 6)
+        //                                            , new Vector3(16, 3, 16)
+        //                                            , carCollBuffer
+        //                                            , Quaternion.identity
+        //                                            , LayerMask.GetMask("CAR"));
+        //float carLength = 20;
+        //for (int i = 0; i < bufferCount; i++)
+        //{
+        //    float dist = Vector3.Distance(carCollBuffer[i].transform.position, transform.position);
+        //    if (dist < carLength)
+        //    {
+        //        carLength = dist;
+        //    }
+        //}
 
-        int chickBufferCount = Physics.OverlapBoxNonAlloc(transform.position + new Vector3(0, 0, 6)
-                                                    , new Vector3(16, 3, 16)
-                                                    , chickCollBuffer
-                                                    , Quaternion.identity
-                                                    , LayerMask.GetMask("CHICK"));
-        float chickLength = 20;
-        for (int i = 0; i < bufferCount; i++)
-        {
-            float dist = Vector3.Distance(chickCollBuffer[i].transform.position, transform.position);
-            if (dist < chickLength)
-            {
-                chickLength = dist;
-            }
-        }
-        AddVectorObs(carLength);
-        AddVectorObs(chickLength);
+        //int chickBufferCount = Physics.OverlapBoxNonAlloc(transform.position + new Vector3(0, 0, 6)
+        //                                            , new Vector3(16, 3, 16)
+        //                                            , chickCollBuffer
+        //                                            , Quaternion.identity
+        //                                            , LayerMask.GetMask("CHICK"));
+        //float chickLength = 20;
+        //for (int i = 0; i < bufferCount; i++)
+        //{
+        //    float dist = Vector3.Distance(chickCollBuffer[i].transform.position, transform.position);
+        //    if (dist < chickLength)
+        //    {
+        //        chickLength = dist;
+        //    }
+        //}
+        //AddVectorObs(carLength);
+        //AddVectorObs(chickLength);
+
+        //광선 7, 대상 (3 + 2)
+        //Observation Size = 7 * 5 = 35
+        AddVectorObs(ray.Perceive(rayDistance, rayAngles, detectObjects, 0.5f, 0.5f));
+
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("CHICK"))
         {
-            AddReward(+2.0f);
+            AddReward(+1.5f);
             other.gameObject.SetActive(false);
         }
         if (other.CompareTag("DEAD_ZONE"))
